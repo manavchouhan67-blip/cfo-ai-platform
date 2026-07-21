@@ -31,7 +31,7 @@ exit value at an 8.5x exit multiple.
 
 ## Demo
 
-Live app: [Link will appear here after deployment]
+Live app: [https://cfo-ai-platform-dc2ut7gxjfrlxmlkvkzx2k.streamlit.app/]
 
 Demo data is pre-loaded. Upload your own CSV files to test with real data.
 
