@@ -1,0 +1,24 @@
+line_item,category,budget,actual
+Revenue - Pharma Storage,Revenue,1250000,1187000
+Revenue - Food Logistics,Revenue,980000,1024000
+Revenue - Medical Supplies,Revenue,420000,398000
+Revenue - Spot Storage,Revenue,450000,329000
+Total Revenue,Revenue,3100000,2938000
+Fuel and Transportation,Cost,540000,584000
+Driver Labor,Cost,890000,934000
+Refrigeration Energy,Cost,310000,298000
+Fleet Maintenance,Cost,180000,204000
+Warehouse Labor,Cost,420000,408000
+Total Cost of Revenue,Cost,2340000,2428000
+Gross Profit,Profit,760000,510000
+CFO and Finance Team,Cost,520000,499000
+Outsourced Bookkeeping,Cost,15000,0
+Sales Team Salaries,Cost,180000,192000
+Marketing and BD,Cost,45000,38000
+IT and Systems,Cost,32000,29000
+Legal and Compliance,Cost,28000,31000
+HR and Payroll Admin,Cost,20000,20000
+Office and Miscellaneous,Cost,60000,74000
+Total SGA,Cost,900000,883000
+EBITDA,Profit,550000,309000
+

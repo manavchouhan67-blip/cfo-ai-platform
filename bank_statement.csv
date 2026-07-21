@@ -1,0 +1,24 @@
+date,description,amount,reference
+2025-01-03,Sysco Foods Inc payment,312450,CHK-10041
+2025-01-05,HCA Healthcare Corp,528000,ACH-88821
+2025-01-06,Publix Supply Chain LLC,180200,ACH-77432
+2025-01-08,Diesel Direct LLC fuel,-44230,ACH-55601
+2025-01-09,Driver payroll week 1,-187500,PAY-00101
+2025-01-10,Arctic Refrigeration Services,-18500,CHK-10042
+2025-01-12,Walgreens Distribution,95400,ACH-66712
+2025-01-14,Fleet maintenance - Nashville,-24100,CHK-10043
+2025-01-15,Driver payroll week 2,-187500,PAY-00102
+2025-01-16,Kroger Distribution Centers,214800,ACH-99001
+2025-01-18,Office supplies - Amazon,-4200,CHK-10044
+2025-01-19,Legal retainer - Smith LLC,-8500,CHK-10045
+2025-01-20,Publix Supply Chain LLC,45000,ACH-77433
+2025-01-22,Driver payroll week 3,-187500,PAY-00103
+2025-01-23,Arctic Refrigeration Services,-18500,CHK-10046
+2025-01-24,Tennessee facility rent,-85000,ACH-11201
+2025-01-25,Georgia facility rent,-92000,ACH-11202
+2025-01-26,Whole Foods Market,128900,ACH-44301
+2025-01-28,Driver payroll week 4,-187500,PAY-00104
+2025-01-29,Unidentified credit,1150,UNKNOWN
+2025-01-30,Florida facility rent,-78000,ACH-11203
+2025-01-31,Carolina facility rent,-71000,ACH-11204
+
